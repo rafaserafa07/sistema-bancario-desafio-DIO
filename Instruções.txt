@@ -1,0 +1,23 @@
+OBJETIVO SISTEMA BANCÁRIO
+
+• Depositar
+• Sacar
+• Visualizar extrato
+
+OPERAÇÃO DE DEPÓSITO
+
+• Depositar VALORES POSITIVOS;
+• Apenas 1 usuário, não precisa informar/identificar número da agência e conta bancária;
+• Armazenar os depósitos realizados em uma variável e exibi-los na operação de extrato.
+
+OPERAÇÃO DE SAQUE
+
+• Permitir realizar 3 saques diários com limite máximo de R$500,00 por saque;
+• Informar que não será possível sacar o dinheiro caso o usuário não possua saldo em conta;
+• Armazenar os saques realizados em uma variável e exibi-los na operação de extrato.
+
+OPERAÇÃO DE EXTRATO
+
+• Listar todos os depósitos e saques realizados na conta;
+• Exibir o saldo atual da conta no fim da listagem;
+• Exibir os valores no formato (R$ xxx.xx).
